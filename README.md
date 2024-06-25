@@ -4,6 +4,10 @@
 This repository contains a series of Tableau projects designed to enhance data visualization and analysis skills using various datasets. The projects cover different aspects of Tableau, including table creation, data combining, filtering, creating visualizations, and developing dashboards.
 
 ## What does the Performance Dashboard features? 📊
+
+<img width="632" alt="Screenshot 2024-06-25 at 21 30 10" src="https://github.com/s-mehakkk/USA-Superstore-Dashboard-and-Analysis/assets/75841992/fcbbda6a-5ef8-485d-96ba-61dd6ab2ffeb">
+
+
 Develop a Tableau dashboard using the Sample Superstore dataset with the following features:
 
 - Two Planes: Left plane for company logo, interaction controls, filters; Right plane for dynamic visualizations, KPI cards.
